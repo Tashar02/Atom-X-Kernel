@@ -56,3 +56,8 @@
 		/delete-node/ qcom,msm_fastrpc_compute_cb13;
 	};
 };
+
+&msm_gpu {
+	/* sdm636.dtsi defaults to A509, Use 512 chip id to get some more perf*/
+	qcom,chipid = <0x05010200>;
+};
