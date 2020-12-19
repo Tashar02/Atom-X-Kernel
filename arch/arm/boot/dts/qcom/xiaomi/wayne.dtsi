@@ -33,3 +33,5 @@
 		};
 	};
 };
+
+#include "sdm660-haptic.dtsi"
