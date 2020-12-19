@@ -12,6 +12,7 @@
 #include "common/common-sdm660-base.dtsi"
 #include "wayne/wayne-common-base.dtsi"
 #include "common/common-sdm660-thermal.dtsi"
+#include "sdm660-haptic.dtsi"
 
 /* sdm660.dtsi wayne specific diff */
 &firmware {
@@ -33,3 +34,5 @@
 		};
 	};
 };
+
+
