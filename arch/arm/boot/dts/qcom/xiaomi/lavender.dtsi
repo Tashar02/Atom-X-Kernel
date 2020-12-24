@@ -11,4 +11,3 @@
  */
 #include "common/common-sdm660-base.dtsi"
 #include "lavender/lavender-base.dtsi"
-#include "common/common-sdm660-thermal.dtsi"
