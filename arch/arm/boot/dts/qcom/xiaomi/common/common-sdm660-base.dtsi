@@ -9,8 +9,6 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  */
-#include "common-pm660.dtsi"
-#include "common-sdm660-audio.dtsi"
 #include "common-sdm660-camera.dtsi"
 #include "common-sdm660-mdss.dtsi"
 #include "common-sdm660-mtp.dtsi"
