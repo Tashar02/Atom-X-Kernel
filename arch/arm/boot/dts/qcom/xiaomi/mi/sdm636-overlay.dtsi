@@ -1,3 +1,4 @@
+/*sdm636-overlay.dtsi*/
 &buffer_mem {
 	reg = <0x0 0x94e00000 0x0 0x100000>;
 };
