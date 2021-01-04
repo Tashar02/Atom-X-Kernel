@@ -116,3 +116,13 @@ all.config
 
 # fetched Android config fragments
 android/configs/android-*.cfg
+
+#
+#compiler scripts and output folders
+#
+*.sh
+/out
+/tulip
+/whyred
+/lavender
+/JasWay
